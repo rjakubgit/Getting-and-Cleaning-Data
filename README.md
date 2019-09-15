@@ -1,13 +1,12 @@
 ## Getting-and-Cleaning-Data---Course-Project Repository
 
 
-The repository contains 5 files:
+The repository contains 4 files:
 
 1. run_analysis.R
 2. CodeBook.md
 3. README.md
 4. TidyData.txt
-5. TidyData.csv
 
 The code in R (performing analysis) has 5 parts:
 
